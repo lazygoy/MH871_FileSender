@@ -4,7 +4,7 @@ A small Windows utility for sending HPGL/PLT files directly to a USCutter MH-871
 
 **No Inkscape integration. No speed or blade-pressure controls.** Export an HPGL/PLT file from your design software, select it, and send it to the cutter. Speed and blade pressure remain controlled by the cutter itself.
 
-> **Project status: early experimental release (0.1.0).** The USB discovery and short Area Test command have been tested successfully on one MH-871 / Windows 11 setup. Sending a complete, large design file has not yet been independently validated. Test carefully before using this for production work.
+> **Project status: early experimental release (0.1.0).** This software has successfully cut large complex files on my test machine, your results may differ.
 
 ## Features
 
