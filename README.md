@@ -101,4 +101,3 @@ Do not post private documents or unrelated USB captures. If sharing a USB captur
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
