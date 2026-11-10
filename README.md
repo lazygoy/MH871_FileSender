@@ -64,10 +64,6 @@ Reported test setup:
 - Windows driver: Microsoft USB printer driver
 - USB printer interface GUID: `28D78FAD-5A12-11D1-AE5B-0000F803A8C2`
 
-The user confirmed that the included Area Test command was sent successfully and caused the cutter to feed vinyl forward and back, move the carriage across, and return to park.
-
-**Not yet confirmed:** sending a full design exported from Inkscape or another design application through this sender.
-
 ## Repository layout
 
 ```text
