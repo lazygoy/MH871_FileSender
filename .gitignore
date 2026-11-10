@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.log
+
+# Build / packaging output
+dist/
+build/
+*.exe
+*.dll
+*.pdb
+
+# Local captures and user cut files
+*.pcap
+*.pcapng
+*.hpgl
+*.plt
+!examples/*.hpgl
+!examples/*.plt
